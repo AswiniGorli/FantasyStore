@@ -1,0 +1,23 @@
+
+.discription
+{
+     margin: 2%;
+    font-family: Arial, Helvetica, sans-serif;
+    word-spacing:2px;
+   font-weight: 550;
+}
+
+.cards
+{
+   
+  margin: 3% 60px;
+ text-align: center;
+ padding: 3%;
+border-radius: 5%;
+box-shadow: 10px 15px 10px rgb(89, 88, 88);
+}
+
+.cards img
+{
+    border-radius: 5%;
+}
