@@ -1,16 +1,16 @@
 import { ComponentFixture, TestBed } from '@angular/core/testing';
 
-import { ViratComponent } from './virat.component';
+import { FrozenComponent } from './frozen.component';
 
-describe('ViratComponent', () => {
-  let component: ViratComponent;
-  let fixture: ComponentFixture<ViratComponent>;
+describe('FrozenComponent', () => {
+  let component: FrozenComponent;
+  let fixture: ComponentFixture<FrozenComponent>;
 
   beforeEach(() => {
     TestBed.configureTestingModule({
-      declarations: [ViratComponent]
+      declarations: [FrozenComponent]
     });
-    fixture = TestBed.createComponent(ViratComponent);
+    fixture = TestBed.createComponent(FrozenComponent);
     component = fixture.componentInstance;
     fixture.detectChanges();
   });

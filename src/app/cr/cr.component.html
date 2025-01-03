@@ -1,0 +1,17 @@
+<app-navbar></app-navbar>
+
+<div class="container">
+    <div class="row row-cols-1 row-cols-md-3 g-4">
+        <div class="col" *ngFor="let d of details">
+            <div class="card">
+                <img [src]="d.src" [alt]="d.alt">
+                <h3>{{d.name}}</h3>
+                <p>{{d.price | currency:'INR'}}</p>
+               <button class="btn btn-success">buy now</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<app-footer></app-footer>
