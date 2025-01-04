@@ -1,0 +1,111 @@
+[
+    {
+        "id":1,
+        "name":"printed mug ",
+        "price":699,
+        "src":" ../../assets/spiderman/31Z9oIYKkTL._AC_UL480_FMwebp_QL65_.webp",
+        "alt":"  "
+    },
+    
+    {
+        "id":3,
+        "name":"spider key chain ",
+        "price":699,
+        "src":"../../assets/spiderman/51eQ-5ATJxL._AC_UL480_FMwebp_QL65_.webp ",
+        "alt":"  "
+    },
+    {
+        "id":4,
+        "name":"spidey silicon case ",
+        "price":699,
+        "src":" ../../assets/spiderman/51l+FO4+g-L._AC_UY327_FMwebp_QL65_.webp",
+        "alt":"  "
+    },
+    {
+        "id":5,
+        "name":"ear-bud case ",
+        "price":699,
+        "src":" ../../assets/spiderman/51n8XYV5sQL._AC_UY327_FMwebp_QL65_.webp",
+        "alt":"  "
+    },
+    
+    {
+        "id":7,
+        "name":"spidey notebook",
+        "price":699,
+        "src":"../../assets/spiderman/61-RuNsY7oL._AC_UL480_FMwebp_QL65_.webp ",
+        "alt":"  "
+    },
+    {
+        "id":8,
+        "name":"spidey silicon case ",
+        "price":699,
+        "src":"../../assets/spiderman/613vOu9ToLL._AC_UL480_FMwebp_QL65_.webp ",
+        "alt":"  "
+    },
+    {
+        "id":9,
+        "name":"printed t-shirt",
+        "price":699,
+        "src":" ../../assets/spiderman/61i9MN1uyPL._AC_UL480_FMwebp_QL65_.webp",
+        "alt":"  "
+    },
+    {
+        "id":91,
+        "name":"spider-man cap ",
+        "price":699,
+        "src":"../../assets/spiderman/61kvhQT6DUL._AC_UL480_FMwebp_QL65_.webp ",
+        "alt":"  "
+    },
+    {
+        "id":92,
+        "name":"printed t-shirt",
+        "price":699,
+        "src":" ../../assets/spiderman/61r-x+64AsL._AC_UL480_FMwebp_QL65_.webp",
+        "alt":"  "
+    },
+    {
+        "id":93,
+        "name":"spider t-shirt",
+        "price":699,
+        "src":" ../../assets/spiderman/61WV9i1ZR3L._AC_UL480_FMwebp_QL65_.webp ",
+        "alt":"  "
+    },
+    {
+        "id":10,
+        "name":"spidey silicon case ",
+        "price":699,
+        "src":" ../../assets/spiderman/710YbzMvP8L._AC_UY327_FMwebp_QL65_.webp",
+        "alt":"  "
+    },
+    {
+        "id":10,
+        "name":" spidey notebook",
+        "price":699,
+        "src":"../../assets/spiderman/716yAzL9U5L._AC_UL480_FMwebp_QL65_.webp  ",
+        "alt":"  "
+    },
+    {
+        "id":10,
+        "name":"spider-man key chain",
+        "price":699,
+        "src":" ../../assets/spiderman/71naYO0Z19L._AC_UL480_FMwebp_QL65_.webp ",
+        "alt":"  "
+    },
+    {
+        "id":10,
+        "name":"printed mug ",
+        "price":699,
+        "src":" ../../assets/spiderman/71rWSNIYQNL._AC_UL480_FMwebp_QL65_.webp ",
+        "alt":"  "
+    },
+    {
+        "id":10,
+        "name":"printed pillow",
+        "price":699,
+        "src":" ../../assets/spiderman/8167BzGh5XL._AC_UL480_FMwebp_QL65_.webp ",
+        "alt":"  "
+    }
+    
+    
+]

@@ -1,0 +1,19 @@
+.container
+{
+    margin:2% 8% ;
+}
+
+.card 
+{
+text-align: center;
+border: 2px solid rgb(102, 101, 101);
+box-shadow: 5px  5px 15px slategrey;
+}
+.card button
+{
+    margin:2% 25% 5% ;
+}
+.card img{
+    width: 400px;
+    height: 400px;
+}
