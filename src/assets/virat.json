@@ -1,9 +1,9 @@
 [
-    {
-        "id":1,
-        "name":"Virat key chain",
-        "price":49,
-        "src":" ../../assets/fsVK/41ZuMz-2H3L.jpg",
+     {
+        "id":7,
+        "name":"key chain with tropy",
+        "price":300,
+        "src":"../../assets/fsVK/61QSMyybTkL._SX522_.jpg ",
         "alt":"  "
     },
 
@@ -22,7 +22,13 @@
         "src":" ../../assets/fsVK/519TxT3ksEL._SY300_SX300_QL70_FMwebp_.webp",
         "alt":"  "
     },
-
+{
+        "id":1,
+        "name":"Virat key chain",
+        "price":49,
+        "src":" ../../assets/fsVK/41ZuMz-2H3L.jpg",
+        "alt":"  "
+    },
     {
         "id":4,
         "name":"RCB printed t-shirt",
@@ -38,13 +44,7 @@
         "src":"../../assets/fsVK/51qyiwh1emL._AC_UL165_SR165,165_.jpg",
         "alt":"  "
     },
-    {
-        "id":7,
-        "name":"key chain with tropy",
-        "price":300,
-        "src":"../../assets/fsVK/61QSMyybTkL._SX522_.jpg ",
-        "alt":"  "
-    },
+   
     {
         "id":8,
         "name":"printed mug",

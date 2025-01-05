@@ -15,6 +15,7 @@ import { SpideyComponent } from './spidey/spidey.component';
 import { FrozenComponent } from './frozen/frozen.component';
 import { DevotionComponent } from './devotion/devotion.component';
 import { ShinchanComponent } from './shinchan/shinchan.component';
+import { VkdetailsComponent } from './vkdetails/vkdetails.component';
 
 @NgModule({
   declarations: [
@@ -29,7 +30,8 @@ import { ShinchanComponent } from './shinchan/shinchan.component';
          SpideyComponent,
          FrozenComponent,
          DevotionComponent,
-         ShinchanComponent
+         ShinchanComponent,
+         VkdetailsComponent
   ],
   imports: [
     BrowserModule,
