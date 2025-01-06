@@ -1,4 +1,37 @@
-div{
+.details{
     display: flex;
-    margin: 2%;
+    margin: 2% 7% 3% 15%;
+    gap: 3%; 
+}
+img
+{
+    border: 2px solid black;
+    border-radius: 5%;
+    box-shadow: 5px 10px 15px gray;
+}
+.discrpt
+{
+    padding: 2% ;
+    word-spacing: 15%;
+    
+}
+.price
+{
+    margin: 0% 7% 3% 20%;  
+    display: flex;
+    gap: 3%;
+}
+.mrp
+{
+    padding-top: 1.5%;
+    font-size: large;
+}
+
+.productdetails
+{
+    margin: 0% 5% 1% 15%;
+    font-size: larger;
+}
+.price b{
+    color: rgb(246, 9, 9);
 }

@@ -7,6 +7,7 @@ import { SpideyComponent } from './spidey/spidey.component';
 import { FrozenComponent } from './frozen/frozen.component';
 import { DevotionComponent } from './devotion/devotion.component';
 import { ShinchanComponent } from './shinchan/shinchan.component';
+import { VkdetailsComponent } from './vkdetails/vkdetails.component';
 
 const routes: Routes = [
 {
@@ -29,6 +30,9 @@ const routes: Routes = [
 },
 {
   path:'shinchan',component:ShinchanComponent
+},
+{
+  path:'vkdetails',component:VkdetailsComponent
 }
 
 ];
